@@ -13,5 +13,8 @@ int main()
 	cout << "z2 = " << z2 << endl;
 	cin.get();
 	return 0;
-}// Git change 1
+}
+// Git change 1
 // Local merge change
+// Second local merge change
+
