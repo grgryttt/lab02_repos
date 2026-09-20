@@ -14,3 +14,4 @@ int main()
 	cin.get();
 	return 0;
 }// Git change 1
+// Second local merge change
